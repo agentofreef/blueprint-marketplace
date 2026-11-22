@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "roles": [
+    {
+      "packageId": "blueprint-backend-engineer",
+      "repository": "agentofreef/blueprint-role-backend-engineer",
+      "repositoryId": 1467668071
+    },
+    {
+      "packageId": "blueprint-data-analyst",
+      "repository": "agentofreef/blueprint-role-data-analyst",
+      "repositoryId": 1467669390
+    },
+    {
+      "packageId": "blueprint-devops-engineer",
+      "repository": "agentofreef/blueprint-role-devops-engineer",
+      "repositoryId": 1467668628
+    },
+    {
+      "packageId": "blueprint-frontend-engineer",
+      "repository": "agentofreef/blueprint-role-frontend-engineer",
+      "repositoryId": 1467665930
+    },
+    {
+      "packageId": "blueprint-fullstack-engineer",
+      "repository": "agentofreef/blueprint-role-fullstack-engineer",
+      "repositoryId": 1467668080
+    },
+    {
+      "packageId": "blueprint-security-engineer",
+      "repository": "agentofreef/blueprint-role-security-engineer",
+      "repositoryId": 1467668626
+    },
+    {
+      "packageId": "blueprint-technical-architect",
+      "repository": "agentofreef/blueprint-role-technical-architect",
+      "repositoryId": 1467668633
+    },
+    {
+      "packageId": "blueprint-technical-writer",
+      "repository": "agentofreef/blueprint-role-technical-writer",
+      "repositoryId": 1467669379
+    },
+    {
+      "packageId": "blueprint-testing-engineer",
+      "repository": "agentofreef/blueprint-role-testing-engineer",
+      "repositoryId": 1467668087
+    },
+    {
+      "packageId": "blueprint-ux-designer",
+      "repository": "agentofreef/blueprint-role-ux-designer",
+      "repositoryId": 1467705295
+    }
+  ]
+}
