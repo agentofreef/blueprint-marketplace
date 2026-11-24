@@ -27,6 +27,11 @@
       "repositoryId": 1467668080
     },
     {
+      "packageId": "blueprint-react-native-mobile",
+      "repository": "agentofreef/blueprint-role-react-native-mobile",
+      "repositoryId": 1469543087
+    },
+    {
       "packageId": "blueprint-security-engineer",
       "repository": "agentofreef/blueprint-role-security-engineer",
       "repositoryId": 1467668626
