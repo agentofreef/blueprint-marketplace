@@ -17,6 +17,11 @@
       "repositoryId": 1467668628
     },
     {
+      "packageId": "blueprint-electron-desktop",
+      "repository": "agentofreef/blueprint-role-electron-desktop",
+      "repositoryId": 1472637423
+    },
+    {
       "packageId": "blueprint-frontend-engineer",
       "repository": "agentofreef/blueprint-role-frontend-engineer",
       "repositoryId": 1467665930
